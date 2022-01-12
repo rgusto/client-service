@@ -1,2 +1,2 @@
 # client-service
-Projeto de estudos da linguagem Kotlin utilizando o framework Micronaut
+Projeto de estudos da linguagem Kotlin utilizando o framework Micronaut com Gradle
